@@ -23,3 +23,4 @@ def stu(name, roll, sub1, sub2, sub3, sub4, sub5):
         print("E Grade")
     else:
         print("FAIL!!")
+stu(name, roll, sub, sub, sub, sub, sub)
